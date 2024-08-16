@@ -10,13 +10,25 @@ This has helped me develop strong problem-solving skills and the ability to comm
 **#Skills**
 
 Programming Languages: Java, SQL, HTML, CSS, JavaScript, Python, C++
+
 Databases: OracleDB, MySQL, MariaDB
+
 Version Control: SVN, Git
 
 **#Professional Contributions**
 
-Contributed to Change Requests (CRs) for Golomt Bank.
-Successfully signed off on the POS Acquiring Project with Innwa Bank.
-Currently involved in the CMS System Project for BSN.
+- Contributed to Change Requests (CRs) for Golomt Bank.
+
+- Contributed to Enhancements for KBank.
+
+- Contributed to Development for BDI (Danamon Bank).
+
+- Successfully signed off on the POS Acquiring Project with Innwa Bank.
+
+- Bug fixes for numerous banking clients.
+
+- Currently involved in the CMS System Project for BSN.
+
+
 
 I'm always eager to learn and adapt to new technologies, continuously seeking to improve and contribute to innovative projects
